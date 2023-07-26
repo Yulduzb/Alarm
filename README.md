@@ -10,6 +10,6 @@ HTML
 CSS
 Javascript
 
-![](Alarm.gif)
+![](alarm.gif)
 
 
