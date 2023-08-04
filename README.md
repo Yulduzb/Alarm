@@ -9,6 +9,10 @@
 HTML
 CSS
 Javascript
+## Live Preview
+
+You can preview the website by visiting the following link: [AlarmProject Live Preview](https://yulduzb.github.io/Alarm/)
+
 
 ![](alarm.gif)
 
